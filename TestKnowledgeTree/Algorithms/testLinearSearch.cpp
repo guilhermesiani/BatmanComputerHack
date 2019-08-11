@@ -9,13 +9,15 @@
 #include "catch.hpp"
 
 #include "LinearSearch.hpp"
-#include <array>
 
-TEST_CASE("Testing Sample Class") {
+TEST_CASE("Testing Linear Search") {
     LinearSearch linearSearch;
   
-    SECTION("setting the str") {
-        std::array<int, 5> args = {3,5,6,1,7};
-        CHECK(linearSearch.inArray(3, args));
+    SECTION("integer in array") {
+        CHECK(linearSearch.inArray(3, {3,5,6,1,7}));
+    }
+    
+    SECTION("integer not in array") {
+        CHECK_FALSE(linearSearch.inArray(8, {3,5,6,1,7}));
     }
 }

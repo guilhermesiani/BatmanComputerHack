@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBF7471D22FF656500F439B0 /* testSampleClass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7471A22FF656500F439B0 /* testSampleClass.cpp */; };
+		DBF7471D22FF656500F439B0 /* testLinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7471A22FF656500F439B0 /* testLinearSearch.cpp */; };
 		DBF7472022FF657200F439B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7471F22FF657200F439B0 /* main.cpp */; };
 		DBF7472522FF8A8200F439B0 /* LinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */; };
 		DBF7472822FF8EF000F439B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472722FF8EF000F439B0 /* main.cpp */; };
@@ -38,7 +38,7 @@
 /* Begin PBXFileReference section */
 		DBF7470522FF64C800F439B0 /* KnowledgeTree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KnowledgeTree; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBF7471322FF652300F439B0 /* TestKnowledgeTree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestKnowledgeTree; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBF7471A22FF656500F439B0 /* testSampleClass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = testSampleClass.cpp; sourceTree = "<group>"; };
+		DBF7471A22FF656500F439B0 /* testLinearSearch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = testLinearSearch.cpp; sourceTree = "<group>"; };
 		DBF7471F22FF657200F439B0 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = LinearSearch.cpp; path = Algorithms/LinearSearch.cpp; sourceTree = "<group>"; };
 		DBF7472422FF8A8200F439B0 /* LinearSearch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = LinearSearch.hpp; path = Algorithms/LinearSearch.hpp; sourceTree = "<group>"; };
@@ -94,9 +94,9 @@
 		DBF7471422FF652300F439B0 /* TestKnowledgeTree */ = {
 			isa = PBXGroup;
 			children = (
+				DBF7472F2300892500F439B0 /* Algorithms */,
 				DBF7472D22FF942900F439B0 /* catch.hpp */,
 				DBF7471F22FF657200F439B0 /* main.cpp */,
-				DBF7471A22FF656500F439B0 /* testSampleClass.cpp */,
 			);
 			path = TestKnowledgeTree;
 			sourceTree = "<group>";
@@ -108,6 +108,14 @@
 				DBF7472422FF8A8200F439B0 /* LinearSearch.hpp */,
 			);
 			name = Algorithms;
+			sourceTree = "<group>";
+		};
+		DBF7472F2300892500F439B0 /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				DBF7471A22FF656500F439B0 /* testLinearSearch.cpp */,
+			);
+			path = Algorithms;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,7 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBF7472E22FF97C200F439B0 /* LinearSearch.cpp in Sources */,
-				DBF7471D22FF656500F439B0 /* testSampleClass.cpp in Sources */,
+				DBF7471D22FF656500F439B0 /* testLinearSearch.cpp in Sources */,
 				DBF7472022FF657200F439B0 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
