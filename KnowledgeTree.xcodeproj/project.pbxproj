@@ -11,6 +11,7 @@
 		DBF7472022FF657200F439B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7471F22FF657200F439B0 /* main.cpp */; };
 		DBF7472522FF8A8200F439B0 /* LinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */; };
 		DBF7472822FF8EF000F439B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472722FF8EF000F439B0 /* main.cpp */; };
+		DBF7472E22FF97C200F439B0 /* LinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -195,6 +196,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBF7472E22FF97C200F439B0 /* LinearSearch.cpp in Sources */,
 				DBF7471D22FF656500F439B0 /* testSampleClass.cpp in Sources */,
 				DBF7472022FF657200F439B0 /* main.cpp in Sources */,
 			);
