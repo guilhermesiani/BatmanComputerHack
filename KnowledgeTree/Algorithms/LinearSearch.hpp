@@ -15,7 +15,7 @@
 class LinearSearch
 {
 public:
-    bool inArray(int element, std::array<int, 5> args);
+    bool inArray(int element, int args[], int size);
 };
 
 #endif /* LinearSearch_hpp */

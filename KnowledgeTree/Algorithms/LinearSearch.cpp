@@ -7,11 +7,10 @@
 //
 
 #include "LinearSearch.hpp"
-#include <array>
 
-bool LinearSearch::inArray(int element, std::array<int, 5> args)
+bool LinearSearch::inArray(int element, int args[], int size)
 {
-    for (int i = 0; i < args.size(); ++i) {
+    for (int i = 0; i < size; ++i) {
         if (args[i] == element) {
             return true;
         }
