@@ -13,8 +13,13 @@
 TEST_CASE("Testing Binary Search") {
     BinarySearch binarySearch;
     
-    SECTION("integer in array") {
-        int foo[6] = {3,4,7,1,9,8};
-        CHECK(binarySearch.iteractiveSearch(foo, 7, 5) == 4);
+    SECTION("iteractive search") {
+        int vector[7] = {3,4,5,6,7,8,9};
+        CHECK(binarySearch.iteractive(vector, 8, 7) == 5);
+    }
+    
+    SECTION("recursive search") {
+        int vector[7] = {3,4,5,6,7,8,9};
+        CHECK(binarySearch.recursive(8, vector, 0, 6) == 5);
     }
 }

@@ -14,7 +14,8 @@
 class BinarySearch
 {
 public:
-    int iteractiveSearch(int vector[], int key, int vectorSize);
+    int iteractive(int vector[], int key, int vectorSize);
+    int recursive(int key, int vector[], int minIndex, int maxIndex);
 };
 
 #endif /* BinarySearch_hpp */
