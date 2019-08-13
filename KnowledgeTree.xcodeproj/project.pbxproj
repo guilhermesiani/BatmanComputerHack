@@ -12,12 +12,12 @@
 		DBF7472522FF8A8200F439B0 /* LinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */; };
 		DBF7472822FF8EF000F439B0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472722FF8EF000F439B0 /* main.cpp */; };
 		DBF7472E22FF97C200F439B0 /* LinearSearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */; };
-		DBF747322300DAE900F439B0 /* BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747302300DAE900F439B0 /* BinarySearch.cpp */; };
 		DBF747342300DC0C00F439B0 /* testBinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747332300DC0C00F439B0 /* testBinarySearch.cpp */; };
-		DBF747352300E1A200F439B0 /* BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747302300DAE900F439B0 /* BinarySearch.cpp */; };
 		DBF747372302350600F439B0 /* testBubbleSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747362302350600F439B0 /* testBubbleSort.cpp */; };
 		DBF7473A2302378C00F439B0 /* BubbleSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747382302378C00F439B0 /* BubbleSort.cpp */; };
 		DBF7473B2302395100F439B0 /* BubbleSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF747382302378C00F439B0 /* BubbleSort.cpp */; };
+		DBF7473E2302424A00F439B0 /* BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7473C2302424A00F439B0 /* BinarySearch.cpp */; };
+		DBF7473F2302425300F439B0 /* BinarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DBF7473C2302424A00F439B0 /* BinarySearch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,12 +50,12 @@
 		DBF7472422FF8A8200F439B0 /* LinearSearch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = LinearSearch.hpp; path = Algorithms/LinearSearch.hpp; sourceTree = "<group>"; };
 		DBF7472722FF8EF000F439B0 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		DBF7472D22FF942900F439B0 /* catch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = catch.hpp; sourceTree = "<group>"; };
-		DBF747302300DAE900F439B0 /* BinarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BinarySearch.cpp; sourceTree = "<group>"; };
-		DBF747312300DAE900F439B0 /* BinarySearch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinarySearch.hpp; sourceTree = "<group>"; };
 		DBF747332300DC0C00F439B0 /* testBinarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testBinarySearch.cpp; sourceTree = "<group>"; };
 		DBF747362302350600F439B0 /* testBubbleSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testBubbleSort.cpp; sourceTree = "<group>"; };
 		DBF747382302378C00F439B0 /* BubbleSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = BubbleSort.cpp; path = Algorithms/BubbleSort.cpp; sourceTree = "<group>"; };
 		DBF747392302378C00F439B0 /* BubbleSort.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = BubbleSort.hpp; path = Algorithms/BubbleSort.hpp; sourceTree = "<group>"; };
+		DBF7473C2302424A00F439B0 /* BinarySearch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BinarySearch.cpp; path = Algorithms/BinarySearch.cpp; sourceTree = "<group>"; };
+		DBF7473D2302424A00F439B0 /* BinarySearch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BinarySearch.hpp; path = Algorithms/BinarySearch.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,10 +116,10 @@
 		DBF7472222FF8A3900F439B0 /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				DBF7473C2302424A00F439B0 /* BinarySearch.cpp */,
+				DBF7473D2302424A00F439B0 /* BinarySearch.hpp */,
 				DBF7472322FF8A8200F439B0 /* LinearSearch.cpp */,
 				DBF7472422FF8A8200F439B0 /* LinearSearch.hpp */,
-				DBF747302300DAE900F439B0 /* BinarySearch.cpp */,
-				DBF747312300DAE900F439B0 /* BinarySearch.hpp */,
 				DBF747382302378C00F439B0 /* BubbleSort.cpp */,
 				DBF747392302378C00F439B0 /* BubbleSort.hpp */,
 			);
@@ -213,8 +213,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBF7473E2302424A00F439B0 /* BinarySearch.cpp in Sources */,
 				DBF7472822FF8EF000F439B0 /* main.cpp in Sources */,
-				DBF747322300DAE900F439B0 /* BinarySearch.cpp in Sources */,
 				DBF7472522FF8A8200F439B0 /* LinearSearch.cpp in Sources */,
 				DBF7473A2302378C00F439B0 /* BubbleSort.cpp in Sources */,
 			);
@@ -224,12 +224,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBF747352300E1A200F439B0 /* BinarySearch.cpp in Sources */,
 				DBF747372302350600F439B0 /* testBubbleSort.cpp in Sources */,
 				DBF747342300DC0C00F439B0 /* testBinarySearch.cpp in Sources */,
 				DBF7472E22FF97C200F439B0 /* LinearSearch.cpp in Sources */,
 				DBF7473B2302395100F439B0 /* BubbleSort.cpp in Sources */,
 				DBF7471D22FF656500F439B0 /* testLinearSearch.cpp in Sources */,
+				DBF7473F2302425300F439B0 /* BinarySearch.cpp in Sources */,
 				DBF7472022FF657200F439B0 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
