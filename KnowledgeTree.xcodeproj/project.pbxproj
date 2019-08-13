@@ -56,6 +56,7 @@
 		DBF747392302378C00F439B0 /* BubbleSort.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = BubbleSort.hpp; path = Algorithms/BubbleSort.hpp; sourceTree = "<group>"; };
 		DBF7473C2302424A00F439B0 /* BinarySearch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BinarySearch.cpp; path = Algorithms/BinarySearch.cpp; sourceTree = "<group>"; };
 		DBF7473D2302424A00F439B0 /* BinarySearch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BinarySearch.hpp; path = Algorithms/BinarySearch.hpp; sourceTree = "<group>"; };
+		DBF747402303802D00F439B0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		DBF746FC22FF64C800F439B0 = {
 			isa = PBXGroup;
 			children = (
+				DBF747402303802D00F439B0 /* .gitignore */,
 				DBF7470722FF64C800F439B0 /* KnowledgeTree */,
 				DBF7471422FF652300F439B0 /* TestKnowledgeTree */,
 				DBF7470622FF64C800F439B0 /* Products */,
