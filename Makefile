@@ -4,4 +4,4 @@ test:
 
 .PHONY: compile
 compile:
-    g++ -std=c++17 KnowledgeTree/*.cpp -o output && ./output
+	g++ -std=c++17 KnowledgeTree/*.cpp -o output && ./output
