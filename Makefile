@@ -1,7 +1,7 @@
 .PHONY: test
 test:
-	g++ -std=c++17 tests/*.cpp -o test && ./test --success
+	docker-compose run gcc g++ -std=c++17 tests/*.cpp -o test && docker-compose run gcc ./test --success
 
 .PHONY: compile
 compile:
-	g++ -std=c++17 src/*.cpp -o output && ./output
+	docker-compose run gcc g++ -std=c++17 src/*.cpp -o output && docker-compose run gcc ./output

@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  gcc:
+    image: gcc:latest
+    working_dir: /opt
+    volumes:
+      - "./:/opt"
