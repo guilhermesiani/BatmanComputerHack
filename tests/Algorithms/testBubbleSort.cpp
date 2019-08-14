@@ -9,7 +9,7 @@
 #include "../catch.hpp"
 #include <iostream>
 
-#include "../../KnowledgeTree/Algorithms/BubbleSort.cpp"
+#include "../../src/Algorithms/BubbleSort.cpp"
 
 TEST_CASE("Testing Bubble Sort") {
     BubbleSort bubbleSort;

@@ -8,7 +8,7 @@
 
 #include "../catch.hpp"
 
-#include "../../KnowledgeTree/Algorithms/BinarySearch.cpp"
+#include "../../src/Algorithms/BinarySearch.cpp"
 
 TEST_CASE("Testing Binary Search") {
     BinarySearch binarySearch;

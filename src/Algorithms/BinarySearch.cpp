@@ -1,6 +1,6 @@
 //
 //  BinarySearch.cpp
-//  KnowledgeTree
+//  src
 //
 //  Created by Guilherme Siani on 11/08/19.
 //  Copyright © 2019 Guilherme Siani. All rights reserved.

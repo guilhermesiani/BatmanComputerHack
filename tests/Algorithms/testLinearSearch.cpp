@@ -8,7 +8,7 @@
 
 #include "../catch.hpp"
 
-#include "../../KnowledgeTree/Algorithms/LinearSearch.cpp"
+#include "../../src/Algorithms/LinearSearch.cpp"
 
 TEST_CASE("Testing Linear Search") {
     LinearSearch linearSearch;
