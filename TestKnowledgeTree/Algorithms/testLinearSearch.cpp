@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
 //
 
-#include "catch.hpp"
+#include "../catch.hpp"
 
-#include "LinearSearch.hpp"
+#include "../../KnowledgeTree/Algorithms/LinearSearch.cpp"
 
 TEST_CASE("Testing Linear Search") {
     LinearSearch linearSearch;

@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
 //
 
-#include "catch.hpp"
+#include "../catch.hpp"
 #include <iostream>
 
-#include "BubbleSort.hpp"
+#include "../../KnowledgeTree/Algorithms/BubbleSort.cpp"
 
 TEST_CASE("Testing Bubble Sort") {
     BubbleSort bubbleSort;

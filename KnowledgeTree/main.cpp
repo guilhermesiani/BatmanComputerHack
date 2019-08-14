@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-#include "LinearSearch.hpp"
+#include "Algorithms/LinearSearch.hpp"
 
 int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";

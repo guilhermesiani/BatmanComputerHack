@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
 //
 
-#include "catch.hpp"
+#include "../catch.hpp"
 
-#include "BinarySearch.hpp"
+#include "../../KnowledgeTree/Algorithms/BinarySearch.cpp"
 
 TEST_CASE("Testing Binary Search") {
     BinarySearch binarySearch;

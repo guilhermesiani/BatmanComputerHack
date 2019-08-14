@@ -8,3 +8,6 @@
 
 #define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
 #include "catch.hpp"
+#include "Algorithms/testLinearSearch.cpp"
+#include "Algorithms/testBinarySearch.cpp"
+#include "Algorithms/testBubbleSort.cpp"
