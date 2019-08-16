@@ -6,15 +6,15 @@
 //  Copyright © 2019 Guilherme Siani. All rights reserved.
 //
 
-#ifndef LinearSearch_hpp
-#define LinearSearch_hpp
+#ifndef SelectionSort_hpp
+#define SelectionSort_hpp
 
 #include <stdio.h>
 
-class LinearSearch
+class SelectionSort
 {
 public:
-    bool inArray(int element, int args[], int argsSize);
+    void sort(int vector[], int size);
 };
 
 #endif /* LinearSearch_hpp */

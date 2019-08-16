@@ -11,3 +11,4 @@
 #include "Algorithms/testLinearSearch.cpp"
 #include "Algorithms/testBinarySearch.cpp"
 #include "Algorithms/testBubbleSort.cpp"
+#include "Algorithms/testSelectionSort.cpp"
