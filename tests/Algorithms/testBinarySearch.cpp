@@ -1,14 +1,6 @@
-//
-//  testBinarySearch.cpp
-//  TestCatch
-//
-//  Created by Hilton Lipschitz on 2014-10-09.
-//  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
-//
-
 #include "../catch.hpp"
 
-#include "../../src/Algorithms/BinarySearch.cpp"
+#include "../../src/Algorithms/Search/BinarySearch.cpp"
 
 TEST_CASE("Testing Binary Search") {
     BinarySearch binarySearch;

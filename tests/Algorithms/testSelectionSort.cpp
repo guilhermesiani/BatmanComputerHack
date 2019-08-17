@@ -1,14 +1,6 @@
-//
-//  testLinearSearch.cpp
-//  TestCatch
-//
-//  Created by Hilton Lipschitz on 2014-10-09.
-//  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
-//
-
 #include "../catch.hpp"
 
-#include "../../src/Algorithms/SelectionSort.cpp"
+#include "../../src/Algorithms/Sort/SelectionSort.cpp"
 
 TEST_CASE("Testing Selection Sort") {
     SelectionSort selectionSort;

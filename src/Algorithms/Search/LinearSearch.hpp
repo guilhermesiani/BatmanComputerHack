@@ -1,11 +1,3 @@
-//
-//  LinearSearch.hpp
-//  Batman
-//
-//  Created by Guilherme Siani on 09/08/19.
-//  Copyright © 2019 Guilherme Siani. All rights reserved.
-//
-
 #ifndef LinearSearch_hpp
 #define LinearSearch_hpp
 

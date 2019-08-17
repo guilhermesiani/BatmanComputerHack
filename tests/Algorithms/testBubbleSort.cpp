@@ -1,15 +1,7 @@
-//
-//  testBubbleSort.cpp
-//  TestCatch
-//
-//  Created by Hilton Lipschitz on 2014-10-09.
-//  Copyright (c) 2014 Hilton Lipschitz. All rights reserved.
-//
-
 #include "../catch.hpp"
 #include <iostream>
 
-#include "../../src/Algorithms/BubbleSort.cpp"
+#include "../../src/Algorithms/Sort/BubbleSort.cpp"
 
 TEST_CASE("Testing Bubble Sort") {
     BubbleSort bubbleSort;
