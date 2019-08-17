@@ -10,6 +10,6 @@ TEST_CASE("Testing Javascript Sams Book") {
     }
 
     SECTION("check author") {
-        CHECK(book.getTitle() == "Lisa Mendes");
+        CHECK(book.getAuthor() == "Lisa Mendes");
     }
 }

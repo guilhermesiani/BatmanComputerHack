@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named run-test
+
+# Build rule for target.
+run-test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 run-test
+.PHONY : run-test
+
+# fast build rule for target.
+run-test/fast:
+	$(MAKE) -f CMakeFiles/run-test.dir/build.make CMakeFiles/run-test.dir/build
+.PHONY : run-test/fast
+
+#=============================================================================
 # Target rules for targets named test
 
 # Build rule for target.
@@ -630,6 +643,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... run-test"
 	@echo "... test"
 	@echo "... output"
 	@echo "... src/Algorithms/Search/BinarySearch.o"

@@ -10,6 +10,6 @@ TEST_CASE("Testing PHP OReally Book") {
     }
 
     SECTION("check author") {
-        CHECK(book.getTitle() == "Mark D'Marco");
+        CHECK(book.getAuthor() == "Mark D'Marco");
     }
 }

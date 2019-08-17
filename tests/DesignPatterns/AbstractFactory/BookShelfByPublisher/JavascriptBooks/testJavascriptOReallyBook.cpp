@@ -2,7 +2,7 @@
 
 #include "../../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp"
 
-TEST_CASE("Testing PHP OReally Book") {
+TEST_CASE("Testing Javascript OReally Book") {
     JavascriptOReallyBook book;
   
     SECTION("check title") {
@@ -10,6 +10,6 @@ TEST_CASE("Testing PHP OReally Book") {
     }
 
     SECTION("check author") {
-        CHECK(book.getTitle() == "Douglas Crockford");
+        CHECK(book.getAuthor() == "Douglas Crockford");
     }
 }
