@@ -1,13 +1,15 @@
 #include "../../../catch.hpp"
 
 #include "../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp"
-#include "../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp"
-#include "../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp"
 
 TEST_CASE("Testing O Really Book Factory") {
-    // OReallyBookFactory bookFactory;
+    OReallyBookFactory bookFactory;
 
-    SECTION("Should create O Really PHP Book") {
-        // CHECK(dynamic_cast<const PHPOReallyBook*>(bookFactory.makePHPBook()) != nullptr);
+    SECTION("Should make an instance of PHPOReallyBook") {
+        CHECK(dynamic_cast<const PHPOReallyBook*>(bookFactory.makePHPBook()) != nullptr);
+    }
+
+    SECTION("Should make an instance of JavascriptOReallyBook") {
+        CHECK(dynamic_cast<const JavascriptOReallyBook*>(bookFactory.makeJavascriptBook()) != nullptr);
     }
 }
