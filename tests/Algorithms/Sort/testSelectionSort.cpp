@@ -1,6 +1,6 @@
-#include "../catch.hpp"
+#include "../../catch.hpp"
 
-#include "../../src/Algorithms/Sort/SelectionSort.cpp"
+#include "../../../src/Algorithms/Sort/SelectionSort.cpp"
 
 TEST_CASE("Testing Selection Sort") {
     SelectionSort selectionSort;

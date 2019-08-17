@@ -1,9 +1,9 @@
 #ifndef PHPOReallyBook_hpp
 #define PHPOReallyBook_hpp
 
-#include "OReallyBook.hpp"
+#include "PHPBook.hpp"
 
-class PHPOReallyBook: public OReallyBook
+class PHPOReallyBook: public PHPBook
 {
 public:
     char* getTitle();

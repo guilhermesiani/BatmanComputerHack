@@ -1,6 +1,6 @@
-#include "../catch.hpp"
+#include "../../catch.hpp"
 
-#include "../../src/Algorithms/Search/LinearSearch.cpp"
+#include "../../../src/Algorithms/Search/LinearSearch.cpp"
 
 TEST_CASE("Testing Linear Search") {
     LinearSearch linearSearch;

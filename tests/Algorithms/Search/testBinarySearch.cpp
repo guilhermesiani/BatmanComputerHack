@@ -1,6 +1,6 @@
-#include "../catch.hpp"
+#include "../../catch.hpp"
 
-#include "../../src/Algorithms/Search/BinarySearch.cpp"
+#include "../../../src/Algorithms/Search/BinarySearch.cpp"
 
 TEST_CASE("Testing Binary Search") {
     BinarySearch binarySearch;

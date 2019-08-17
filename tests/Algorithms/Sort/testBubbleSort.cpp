@@ -1,7 +1,7 @@
-#include "../catch.hpp"
+#include "../../catch.hpp"
 #include <iostream>
 
-#include "../../src/Algorithms/Sort/BubbleSort.cpp"
+#include "../../../src/Algorithms/Sort/BubbleSort.cpp"
 
 TEST_CASE("Testing Bubble Sort") {
     BubbleSort bubbleSort;
