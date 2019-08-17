@@ -1,13 +1,15 @@
 #ifndef PHPBook_hpp
 #define PHPBook_hpp
 
+#include <string>
+
 class PHPBook
 {
 private:
-    char* subject = "PHP";
+    std::string subject = "PHP";
 public:
-    virtual char* getTitle() = 0;
-    virtual char* getAuthor() = 0;
+    virtual std::string getTitle() = 0;
+    virtual std::string getAuthor() = 0;
 };
 
 #endif /* PHPBook.hpp */

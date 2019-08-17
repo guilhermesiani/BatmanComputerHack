@@ -6,8 +6,8 @@
 class PHPOReallyBook: public PHPBook
 {
 public:
-    char* getTitle();
-    char* getAuthor();
+    std::string getTitle();
+    std::string getAuthor();
 };
 
 #endif

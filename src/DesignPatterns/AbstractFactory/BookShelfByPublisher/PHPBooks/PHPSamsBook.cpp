@@ -1,11 +1,11 @@
 #include "PHPSamsBook.hpp"
 
-char* PHPSamsBook::getTitle()
+std::string PHPSamsBook::getTitle()
 {
     return "PHP Object, Patterns and Practice";
 };
 
-char* PHPSamsBook::getAuthor()
+std::string PHPSamsBook::getAuthor()
 {
     return "Matt Zandstra";
 };

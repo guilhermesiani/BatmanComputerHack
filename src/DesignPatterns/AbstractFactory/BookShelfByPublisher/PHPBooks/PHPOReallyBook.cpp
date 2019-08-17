@@ -1,11 +1,11 @@
 #include "PHPOReallyBook.hpp"
 
-char* PHPOReallyBook::getTitle()
+std::string PHPOReallyBook::getTitle()
 {
     return "PHP - Where to start";
 };
 
-char* PHPOReallyBook::getAuthor()
+std::string PHPOReallyBook::getAuthor()
 {
     return "Mark D'Marco";
 };

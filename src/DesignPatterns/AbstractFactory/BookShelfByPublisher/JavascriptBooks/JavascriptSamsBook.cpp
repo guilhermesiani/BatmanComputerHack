@@ -1,11 +1,11 @@
 #include "JavascriptSamsBook.hpp"
 
-char* JavascriptSamsBook::getTitle()
+std::string JavascriptSamsBook::getTitle()
 {
     return "Javascript Assyncronous Programming";
 };
 
-char* JavascriptSamsBook::getAuthor()
+std::string JavascriptSamsBook::getAuthor()
 {
     return "Lisa Mendes";
 };

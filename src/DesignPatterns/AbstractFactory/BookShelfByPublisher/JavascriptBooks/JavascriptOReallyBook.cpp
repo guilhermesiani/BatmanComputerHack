@@ -1,11 +1,11 @@
 #include "JavascriptOReallyBook.hpp"
 
-char* JavascriptOReallyBook::getTitle()
+std::string JavascriptOReallyBook::getTitle()
 {
     return "The Best of Javascript";
 };
 
-char* JavascriptOReallyBook::getAuthor()
+std::string JavascriptOReallyBook::getAuthor()
 {
     return "Douglas Crockford";
 };
