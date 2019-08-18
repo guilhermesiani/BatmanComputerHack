@@ -392,6 +392,33 @@ src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
 .PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
 
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o
+
+# target to build an object file
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i
+
+# target to preprocess a source file
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s
+
+# target to generate assembly for a file
+src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -662,6 +689,33 @@ tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
 .PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
 
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o
+
+# target to build an object file
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i
+
+# target to preprocess a source file
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+
 tests/main.o: tests/main.cpp.o
 
 .PHONY : tests/main.o
@@ -727,6 +781,9 @@ help:
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o"
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i"
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s"
+	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o"
+	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i"
+	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -757,6 +814,9 @@ help:
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s"
+	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o"
+	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i"
+	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"

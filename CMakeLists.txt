@@ -11,7 +11,7 @@ target_compile_options(output PUBLIC -std=c++17)
 target_compile_options(test PUBLIC -std=c++17)
 
 add_custom_target(run-test
-    COMMAND make && ./test --success
+    COMMAND cmake . && make && ./test --success
     WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
 )
 
