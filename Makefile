@@ -419,6 +419,114 @@ src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
 .PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
 
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o
+
+# target to build an object file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i
+
+# target to preprocess a source file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o
+
+# target to build an object file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i
+
+# target to preprocess a source file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o
+
+# target to build an object file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i
+
+# target to preprocess a source file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
+
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
+
+src/DesignPatterns/Builder/RPGCharacter/Paladin.o: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.o
+
+# target to build an object file
+src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
+
+src/DesignPatterns/Builder/RPGCharacter/Paladin.i: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.i
+
+# target to preprocess a source file
+src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
+
+src/DesignPatterns/Builder/RPGCharacter/Paladin.s: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -716,32 +824,59 @@ tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cp
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 .PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
+
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o
+
+# target to build an object file
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
+
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
+
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
 
 tests/main.o: tests/main.cpp.o
 
@@ -811,6 +946,18 @@ help:
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o"
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i"
 	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.o"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.i"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -844,9 +991,12 @@ help:
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
