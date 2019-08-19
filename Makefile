@@ -716,6 +716,33 @@ tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cp
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 .PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o
+
+# target to build an object file
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.o
+
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.i
+
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s: tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.cpp.s
+
 tests/main.o: tests/main.cpp.o
 
 .PHONY : tests/main.o
@@ -817,6 +844,9 @@ help:
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i"
 	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.o"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.i"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testRPGCharacter.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
