@@ -1,5 +1,10 @@
 #include "Armor.hpp"
 
+Armor::Armor(int value)
+{
+    durability = value;
+}
+
 int Armor::getDurability()
 {
     return durability;

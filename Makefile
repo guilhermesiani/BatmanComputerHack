@@ -851,6 +851,33 @@ tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
 .PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
 
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o
+
+# target to build an object file
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
+
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
+
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
+
 tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
 
 .PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o
@@ -994,6 +1021,9 @@ help:
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s"
