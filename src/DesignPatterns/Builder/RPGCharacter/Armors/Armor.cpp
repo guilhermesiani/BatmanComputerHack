@@ -2,6 +2,10 @@
 
 Armor::Armor(int value)
 {
+    if (value > 100) {
+        durability = 100;
+        return;
+    }
     durability = value;
 }
 
