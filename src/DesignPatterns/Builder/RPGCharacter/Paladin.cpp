@@ -5,25 +5,45 @@ void Paladin::setName(std::string value)
     if (value.find(" ") != std::string::npos) {
         throw "The name must not have spaces";
     }
-    name = value;
+    _name = value;
 };
 
 std::string Paladin::getName()
 {
-    return name;
+    return _name;
 };
 
 void Paladin::increaseVitality(int value)
 {
-    vitality = vitality + value;
+    _vitality = _vitality + value;
 };
 
 void Paladin::decreaseVitality(int value)
 {
-    vitality = vitality - value;
+    _vitality = _vitality - value;
 };
 
 int Paladin::getVitality()
 {
-    return vitality;
+    return _vitality;
+};
+
+void Paladin::setChest(Chest* value)
+{
+    _chest = value;
+};
+
+Chest* Paladin::getChest()
+{
+    return _chest;
+};
+
+void Paladin::setHelm(Helm* value)
+{
+    _helm = value;
+};
+
+Helm* Paladin::getHelm()
+{
+    return _helm;
 };

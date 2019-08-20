@@ -4,8 +4,8 @@
 
 TEST_CASE("Testing RPG Character Paladin") {
     Paladin paladin;
-    // ChestArmor ChestArmor;
-    // Helm Helm;
+    Chest* chest = new Chest(100);
+    Helm* helm = new Helm(90);
 
     SECTION("Testing set and get name with validation") {
         CHECK_THROWS_WITH(paladin.setName("Seth Martin"), "The name must not have spaces");
@@ -22,17 +22,19 @@ TEST_CASE("Testing RPG Character Paladin") {
         CHECK(paladin.getVitality() == 40);
     }
 
-    // SECTION("Testing add chest armor") {
-    //     paladin.addChestArmor(rpgChestArmor);
-    // }
+    SECTION("Testing add chest armor") {
+        paladin.setChest(chest);
+        CHECK(paladin.getChest() == chest);
+    }
 
     // SECTION("Testing drop chest armor") {
     //     paladin.dropChestArmor();
     // }
 
-    // SECTION("Testing add helm") {
-    //     paladin.addHelm(rpgHelm);
-    // }
+    SECTION("Testing add helm") {
+        paladin.setHelm(helm);
+        CHECK(paladin.getHelm() == helm);
+    }
 
     // SECTION("Testing drop helm") {
     //     paladin.dropHelm();
