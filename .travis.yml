@@ -1,5 +1,14 @@
-services:
-  - docker
+dist: xenial
 
-script:
-  - docker run --rm -v $(pwd):/usr/src/myapp rikorose/gcc-cmake:latest cmake /usr/src/myapp/ && make && ./test --success
+addons:
+  apt:
+    sources:
+      - george-edison55-precise-backports
+    packages:
+      - cmake-data
+      - cmake
+
+scripts:
+  - cmake .
+  - make
+  - ./test --success
