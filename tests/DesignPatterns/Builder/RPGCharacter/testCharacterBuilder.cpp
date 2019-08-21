@@ -10,6 +10,12 @@ TEST_CASE("Testing RPG Character Builder") {
         builder.buildChest(55);
         builder.buildHelm(80);
         builder.buildSkill(2);
-        CHECK(dynamic_cast<const Paladin*>(builder.getCharacter()) != nullptr);
+        Character* character = builder.getCharacter();
+        CHECK(dynamic_cast<const Paladin*>(character) != nullptr);
+        CHECK(character->getChest()->getDurability() == 55);
+        CHECK(character->getHelm()->getDurability() == 80);
+        CHECK(character->getSkill()->damage() == 27);
+        character->setName("MortinMoon");
+        CHECK(character->getName() == "MortinMoon");
     }
 }
