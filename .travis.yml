@@ -2,6 +2,4 @@ services:
   - docker
 
 script:
-  - docker run --rm -v $(pwd):/usr/src/myapp rikorose/gcc-cmake:latest cmake /usr/src/myapp/
-  - cd /usr/src/myapp/ && make
-  - cd /usr/src/myapp/ && ./test --success
+  - docker run --rm -v $(pwd):/usr/src/myapp rikorose/gcc-cmake:latest cmake /usr/src/myapp/ && cd /usr/src/myapp/ && make && ./test --success
