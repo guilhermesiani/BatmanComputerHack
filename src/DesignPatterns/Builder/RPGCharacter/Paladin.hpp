@@ -6,7 +6,7 @@
 
 class Paladin: public Character
 {
-    std::string _name = "NoNamed";
+    std::string _name = "Paladin";
     int _vitality = 0;
     Chest* _chest;
     Helm* _helm;

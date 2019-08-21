@@ -500,6 +500,33 @@ src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
 .PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
 
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o
+
+# target to build an object file
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
+
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i
+
+# target to preprocess a source file
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
+
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
+
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
+.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
+
 src/DesignPatterns/Builder/RPGCharacter/Paladin.o: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
 
 .PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.o
@@ -986,6 +1013,33 @@ tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s
 .PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s
 
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o
+
+# target to build an object file
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+
 tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
 
 .PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o
@@ -1090,6 +1144,9 @@ help:
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i"
+	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.o"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.i"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.s"
@@ -1144,6 +1201,9 @@ help:
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.o"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.i"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.s"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i"
+	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s"
