@@ -10,6 +10,7 @@ class Paladin: public Character
     int _vitality = 0;
     Chest* _chest;
     Helm* _helm;
+    Skill* _skill;
 public:
     void setName(std::string name);
     std::string getName();
@@ -20,6 +21,10 @@ public:
     Chest* getChest();
     void setHelm(Helm* value);
     Helm* getHelm();
+    void dropChest();
+    void dropHelm();
+    void setSkill(Skill* value);
+    Skill* getSkill();
 };
 
 #endif

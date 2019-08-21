@@ -47,3 +47,23 @@ Helm* Paladin::getHelm()
 {
     return _helm;
 };
+
+void Paladin::dropChest()
+{
+    _chest = nullptr;
+};
+
+void Paladin::dropHelm()
+{
+    _helm = nullptr;
+};
+
+void Paladin::setSkill(Skill* value)
+{
+    _skill = value;
+};
+
+Skill* Paladin::getSkill()
+{
+    return _skill;
+};

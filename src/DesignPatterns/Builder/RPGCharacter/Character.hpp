@@ -4,6 +4,9 @@
 #include <string>
 #include "Armors/Chest.hpp"
 #include "Armors/Helm.hpp"
+#include "Skills/Skill.hpp"
+#include "Skills/Fireball.hpp"
+#include "Skills/Lightning.hpp"
 
 class Character
 {
@@ -17,6 +20,10 @@ public:
     virtual Chest* getChest() = 0;
     virtual void setHelm(Helm* value) = 0;
     virtual Helm* getHelm() = 0;
+    virtual void dropChest() = 0;
+    virtual void dropHelm() = 0;
+    virtual void setSkill(Skill* value) = 0;
+    virtual Skill* getSkill() = 0;
 };
 
 #endif
