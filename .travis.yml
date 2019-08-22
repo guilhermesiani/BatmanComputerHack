@@ -1,10 +1,5 @@
 dist: xenial
 
-addons:
-  apt:
-    packages:
-      - cmake
-
 scripts:
   - cmake .
   - make
