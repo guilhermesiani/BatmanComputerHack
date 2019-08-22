@@ -1,5 +1,10 @@
 dist: xenial
 
+# whitelist
+branches:
+  only:
+    - master
+
 scripts:
   - cmake .
   - make
