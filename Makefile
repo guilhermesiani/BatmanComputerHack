@@ -608,6 +608,87 @@ src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s
 .PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s
 
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o
+
+# target to build an object file
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
+
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i
+
+# target to preprocess a source file
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
+
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s
+
+# target to generate assembly for a file
+src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o
+
+# target to build an object file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i
+
+# target to preprocess a source file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s
+
+# target to generate assembly for a file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o
+
+# target to build an object file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i
+
+# target to preprocess a source file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
+
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
+
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s
+
+# target to generate assembly for a file
+src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
+.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -1067,6 +1148,87 @@ tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
 .PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
 
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o
+
+# target to build an object file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i
+
+# target to preprocess a source file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o
+
+# target to build an object file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i
+
+# target to preprocess a source file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o
+
+# target to build an object file
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
+
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i
+
+# target to preprocess a source file
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
+
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
+
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
+.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
+
 tests/main.o: tests/main.cpp.o
 
 .PHONY : tests/main.o
@@ -1156,6 +1318,15 @@ help:
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.o"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.i"
 	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.s"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i"
+	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -1207,6 +1378,15 @@ help:
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i"
 	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i"
+	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
