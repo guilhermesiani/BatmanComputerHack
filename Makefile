@@ -689,6 +689,60 @@ src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s
 .PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s
 
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.o: src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.o
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.o
+
+# target to build an object file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.o
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.o
+
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.i: src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.i
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.i
+
+# target to preprocess a source file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.i
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.i
+
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.s: src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.s
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.s
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.cpp.s
+
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.o: src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.o
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.o
+
+# target to build an object file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.o
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.o
+
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.i: src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.i
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.i
+
+# target to preprocess a source file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.i
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.i
+
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.s: src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s
+
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s
+.PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -1229,6 +1283,60 @@ tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s
 .PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s
 
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.o: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.o
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.o
+
+# target to build an object file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.o
+
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.i: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.i
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.i
+
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.s: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.s
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.cpp.s
+
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.o: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.o
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.o
+
+# target to build an object file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.o
+
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.i: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.i
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.i
+
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.s: tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
+
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
+
 tests/main.o: tests/main.cpp.o
 
 .PHONY : tests/main.o
@@ -1327,6 +1435,12 @@ help:
 	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.o"
 	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.i"
 	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.s"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.o"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.i"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/DocumentPrototypeFactory.s"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.o"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.i"
+	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -1387,6 +1501,12 @@ help:
 	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.o"
 	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.i"
 	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.s"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.o"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.i"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testDocumentPrototypeFactory.s"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.o"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.i"
+	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
