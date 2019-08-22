@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp"
 
 TEST_CASE("Testing Javascript Sams Book") {
     JavascriptSamsBook book;

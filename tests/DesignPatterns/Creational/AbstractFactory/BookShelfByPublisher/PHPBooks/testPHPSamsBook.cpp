@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp"
 
 TEST_CASE("Testing PHP Sams Book") {
     PHPSamsBook book;

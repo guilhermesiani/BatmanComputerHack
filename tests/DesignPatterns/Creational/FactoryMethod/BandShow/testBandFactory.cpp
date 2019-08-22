@@ -1,6 +1,6 @@
-#include "../../../catch.hpp"
+#include "../../../../catch.hpp"
 
-#include "../../../../src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp"
+#include "../../../../../src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp"
 
 TEST_CASE("Testing Band Factory") {
     BandFactory bandFactory;

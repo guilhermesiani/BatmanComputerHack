@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp"
 
 TEST_CASE("Testing Javascript OReally Book") {
     JavascriptOReallyBook book;

@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp"
 
 TEST_CASE("Testing Queen band") {
     Queen queen;

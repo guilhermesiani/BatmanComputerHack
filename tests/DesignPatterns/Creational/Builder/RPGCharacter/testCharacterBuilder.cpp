@@ -1,6 +1,6 @@
-#include "../../../catch.hpp"
+#include "../../../../catch.hpp"
 
-#include "../../../../src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp"
+#include "../../../../../src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp"
 
 TEST_CASE("Testing RPG Character Builder") {
     CharacterBuilder builder;

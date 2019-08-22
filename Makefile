@@ -257,437 +257,437 @@ src/Algorithms/Sort/SelectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/Algorithms/Sort/SelectionSort.cpp.s
 .PHONY : src/Algorithms/Sort/SelectionSort.cpp.s
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o
-
-# target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
-
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
-
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i
-
-# target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
-
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
-
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s
-
-# target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
-
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
-
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o
 
 # target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.o
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i
 
 # target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.i
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s
 
 # target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.cpp.s
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o
 
 # target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.o
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i
 
 # target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.i
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s
 
 # target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.cpp.s
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o
 
 # target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.o
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i
 
 # target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.i
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s
 
 # target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp.s
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o
 
 # target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.o
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i
 
 # target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.i
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s
 
 # target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp.s
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o
 
 # target to build an object file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.o
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i
 
 # target to preprocess a source file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.i
 
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s: src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
 
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s
 
 # target to generate assembly for a file
-src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
-.PHONY : src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.o
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.i
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s: src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp.s
+src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
+.PHONY : src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s: src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s: src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Paladin.o: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.o: src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Paladin.i: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.i: src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Paladin.s: src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.s: src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.o: src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.i: src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.s: src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp.s
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.o: src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.o
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.o
 
 # target to build an object file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.o
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.o
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.i: src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.i
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.i
 
 # target to preprocess a source file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.i
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.i
 
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.s: src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.s
 
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.s
 
 # target to generate assembly for a file
-src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s
-.PHONY : src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.cpp.s
 
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.o: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.o
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.o
 
 # target to build an object file
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.o
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.o
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.o
 
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.i: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.i
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.i
 
 # target to preprocess a source file
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.i
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.i
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.i
 
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s: src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.s: src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.s
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.s
 
 # target to generate assembly for a file
-src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/BandFactory.cpp.s
+src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.s
+.PHONY : src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.cpp.s
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.o: src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.o
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.o
 
 # target to build an object file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.o
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.o
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.i: src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.i
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.i
 
 # target to preprocess a source file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.i
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.i
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s: src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.s: src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.s
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.s
 
 # target to generate assembly for a file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.s
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.cpp.s
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.o: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.o
 
 # target to build an object file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.o
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.o
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.i: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.i
 
 # target to preprocess a source file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.i
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.i
 
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s: src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.s: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
 
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.s
 
 # target to generate assembly for a file
-src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s:
-	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
-.PHONY : src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.cpp.s
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp.s
+
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.o: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.o
+
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.o
+
+# target to build an object file
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.o
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.o
+
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.i: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.i
+
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.i
+
+# target to preprocess a source file
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.i
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.i
+
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.s: src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s
+
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s
+.PHONY : src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.cpp.s
 
 src/main.o: src/main.cpp.o
 
@@ -824,410 +824,410 @@ tests/Algorithms/Sort/testSelectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/Algorithms/Sort/testSelectionSort.cpp.s
 .PHONY : tests/Algorithms/Sort/testSelectionSort.cpp.s
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o
-
-# target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
-
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
-
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i
-
-# target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
-
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
-
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s
-
-# target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
-
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
-
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o
 
 # target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.o
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i
 
 # target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.i
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.cpp.s
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o
 
 # target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.o
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i
 
 # target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.i
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.cpp.s
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o
 
 # target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.o
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i
 
 # target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.i
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.cpp.s
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o
 
 # target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.o
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i
 
 # target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.i
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.cpp.s
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o
 
 # target to build an object file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.o
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i
 
 # target to preprocess a source file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.i
 
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s: tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
 
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
-.PHONY : tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.o
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.i
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s: tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s: tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.cpp.s
+tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
+.PHONY : tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s: tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.o: tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.i: tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.s: tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.o: tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.i: tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.s: tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s: tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.cpp.s
 
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.o
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.o
 
 # target to build an object file
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.o
 
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.i
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.i
 
 # target to preprocess a source file
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.i
 
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s: tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.s
 
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
-.PHONY : tests/DesignPatterns/Builder/RPGCharacter/testPaladin.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.cpp.s
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.o: tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.o
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.o
 
 # target to build an object file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.o
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.i: tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.i
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.i
 
 # target to preprocess a source file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.i
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.s: tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.s
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.cpp.s
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.o: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.o
 
 # target to build an object file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.o
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.i: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.i
 
 # target to preprocess a source file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.i
 
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s: tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.s: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.cpp.s
 
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.o: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.o
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.o
 
 # target to build an object file
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.o
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.o
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.o
 
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.i: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.i
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.i
 
 # target to preprocess a source file
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.i
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.i
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.i
 
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s: tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.s: tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.s
 
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.s
 
 # target to generate assembly for a file
-tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
-.PHONY : tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.cpp.s
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.cpp.s
+
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.o: tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.o
+
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.o
+
+# target to build an object file
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.o
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.o
+
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.i: tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.i
+
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.i
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.i
+
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.s: tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s
+
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s
+.PHONY : tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.cpp.s
 
 tests/main.o: tests/main.cpp.o
 
@@ -1279,54 +1279,54 @@ help:
 	@echo "... src/Algorithms/Sort/SelectionSort.o"
 	@echo "... src/Algorithms/Sort/SelectionSort.i"
 	@echo "... src/Algorithms/Sort/SelectionSort.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i"
-	@echo "... src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/CharacterBuilder.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Paladin.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Fireball.s"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.o"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.i"
-	@echo "... src/DesignPatterns/Builder/RPGCharacter/Skills/Lightning.s"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.o"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.i"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/BandFactory.s"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.o"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.i"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.s"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.o"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.i"
-	@echo "... src/DesignPatterns/FactoryMethod/BandShow/Bands/Queen.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptOReallyBook.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/JavascriptSamsBook.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPSamsBook.s"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.o"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.i"
+	@echo "... src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/CharacterBuilder.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Fireball.s"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.o"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.i"
+	@echo "... src/DesignPatterns/Creational/Builder/RPGCharacter/Skills/Lightning.s"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.o"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.i"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/BandFactory.s"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.o"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.i"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.s"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.o"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.i"
+	@echo "... src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/Queen.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -1342,51 +1342,51 @@ help:
 	@echo "... tests/Algorithms/Sort/testSelectionSort.o"
 	@echo "... tests/Algorithms/Sort/testSelectionSort.i"
 	@echo "... tests/Algorithms/Sort/testSelectionSort.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i"
-	@echo "... tests/DesignPatterns/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testChest.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Armors/testHelm.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testFireball.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/Skills/testLightning.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testCharacterBuilder.s"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.o"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.i"
-	@echo "... tests/DesignPatterns/Builder/RPGCharacter/testPaladin.s"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.o"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.i"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testLinkinPark.s"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.o"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.i"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/Bands/testQueen.s"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.o"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.i"
-	@echo "... tests/DesignPatterns/FactoryMethod/BandShow/testBandFactory.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptOReallyBook.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/JavascriptBooks/testJavascriptSamsBook.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPOReallyBook.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/testPHPSamsBook.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testOReallyBookFactory.s"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.o"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.i"
+	@echo "... tests/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/testSamsBookFactory.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testChest.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Armors/testHelm.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testFireball.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/Skills/testLightning.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testCharacterBuilder.s"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.o"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.i"
+	@echo "... tests/DesignPatterns/Creational/Builder/RPGCharacter/testPaladin.s"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.o"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.i"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testLinkinPark.s"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.o"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.i"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/testQueen.s"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.o"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.i"
+	@echo "... tests/DesignPatterns/Creational/FactoryMethod/BandShow/testBandFactory.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"

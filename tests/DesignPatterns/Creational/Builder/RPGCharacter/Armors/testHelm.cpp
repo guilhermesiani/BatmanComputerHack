@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/Builder/RPGCharacter/Armors/Helm.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Helm.cpp"
 
 TEST_CASE("Testing RPG Character Armor Helm") {
     Helm helm(100);

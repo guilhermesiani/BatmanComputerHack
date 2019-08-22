@@ -1,6 +1,6 @@
-#include "../../../catch.hpp"
+#include "../../../../catch.hpp"
 
-#include "../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp"
+#include "../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/SamsBookFactory.cpp"
 
 TEST_CASE("Testing Sams Book Factory") {
     SamsBookFactory bookFactory;

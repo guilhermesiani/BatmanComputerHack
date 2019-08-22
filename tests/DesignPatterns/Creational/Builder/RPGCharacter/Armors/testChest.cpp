@@ -1,7 +1,7 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/Builder/RPGCharacter/Armors/Chest.cpp"
-#include "../../../../../src/DesignPatterns/Builder/RPGCharacter/Armors/Armor.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Chest.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/Builder/RPGCharacter/Armors/Armor.cpp"
 
 TEST_CASE("Testing RPG Character Armor Chest") {
     Chest chest(100);

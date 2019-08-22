@@ -1,6 +1,6 @@
-#include "../../../catch.hpp"
+#include "../../../../catch.hpp"
 
-#include "../../../../src/DesignPatterns/Builder/RPGCharacter/Paladin.cpp"
+#include "../../../../../src/DesignPatterns/Creational/Builder/RPGCharacter/Paladin.cpp"
 
 TEST_CASE("Testing RPG Character Paladin") {
     Paladin paladin;

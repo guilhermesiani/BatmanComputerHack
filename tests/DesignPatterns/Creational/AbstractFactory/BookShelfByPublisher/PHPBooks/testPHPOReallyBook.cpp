@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/PHPBooks/PHPOReallyBook.cpp"
 
 TEST_CASE("Testing PHP OReally Book") {
     PHPOReallyBook book;

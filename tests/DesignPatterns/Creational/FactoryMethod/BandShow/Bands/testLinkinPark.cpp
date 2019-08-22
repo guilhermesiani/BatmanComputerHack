@@ -1,6 +1,6 @@
-#include "../../../../catch.hpp"
+#include "../../../../../catch.hpp"
 
-#include "../../../../../src/DesignPatterns/FactoryMethod/BandShow/Bands/LinkinPark.cpp"
+#include "../../../../../../src/DesignPatterns/Creational/FactoryMethod/BandShow/Bands/LinkinPark.cpp"
 
 TEST_CASE("Testing Linkin Park band") {
     LinkinPark linkinPark;

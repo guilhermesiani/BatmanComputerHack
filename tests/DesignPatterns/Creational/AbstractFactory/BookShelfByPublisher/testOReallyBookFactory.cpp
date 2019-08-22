@@ -1,6 +1,6 @@
-#include "../../../catch.hpp"
+#include "../../../../catch.hpp"
 
-#include "../../../../src/DesignPatterns/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp"
+#include "../../../../../src/DesignPatterns/Creational/AbstractFactory/BookShelfByPublisher/OReallyBookFactory.cpp"
 
 TEST_CASE("Testing O Really Book Factory") {
     OReallyBookFactory bookFactory;
