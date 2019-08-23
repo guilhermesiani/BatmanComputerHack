@@ -743,6 +743,33 @@ src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s
 .PHONY : src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.cpp.s
 
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.o: src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.o
+
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.o
+
+# target to build an object file
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.o
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.o
+
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.i: src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.i
+
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.i
+
+# target to preprocess a source file
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.i
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.i
+
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.s: src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s
+
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s
+.PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -1337,6 +1364,33 @@ tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
 .PHONY : tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.cpp.s
 
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.o: tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.o
+
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.o
+
+# target to build an object file
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.o
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.o
+
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.i: tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.i
+
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.i
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.i
+
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.s: tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
+
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
+.PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
+
 tests/main.o: tests/main.cpp.o
 
 .PHONY : tests/main.o
@@ -1441,6 +1495,9 @@ help:
 	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.o"
 	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.i"
 	@echo "... src/DesignPatterns/Creational/Prototype/GraphicDocument/TextDocument.s"
+	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.o"
+	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.i"
+	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -1507,6 +1564,9 @@ help:
 	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.o"
 	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.i"
 	@echo "... tests/DesignPatterns/Creational/Prototype/GraphicDocument/testTextDocument.s"
+	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.o"
+	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.i"
+	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
