@@ -770,6 +770,33 @@ src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s:
 	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s
 .PHONY : src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.cpp.s
 
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.o: src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.o
+
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.o
+
+# target to build an object file
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.o:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.o
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.o
+
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.i: src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.i
+
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.i
+
+# target to preprocess a source file
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.i:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.i
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.i
+
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.s: src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.s
+
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.s
+
+# target to generate assembly for a file
+src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.s:
+	$(MAKE) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.s
+.PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.cpp.s
+
 src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.o: src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.cpp.o
 
 .PHONY : src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.o
@@ -1418,6 +1445,33 @@ tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
 .PHONY : tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.cpp.s
 
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.o: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.o
+
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.o
+
+# target to build an object file
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.o
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.o
+
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.i: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.i
+
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.i
+
+# target to preprocess a source file
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.i
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.i
+
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.s: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.s
+
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.s
+
+# target to generate assembly for a file
+tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.s
+.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.cpp.s
+
 tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.o: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.cpp.o
 
 .PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.o
@@ -1444,33 +1498,6 @@ tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.s: tes
 tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.cpp.s:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.cpp.s
 .PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.cpp.s
-
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.o: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.o
-
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.o
-
-# target to build an object file
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.o
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.o
-
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.i: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.i
-
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.i
-
-# target to preprocess a source file
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.i
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.i
-
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.s: tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.s
-
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.s
-
-# target to generate assembly for a file
-tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.s
-.PHONY : tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.cpp.s
 
 tests/main.o: tests/main.cpp.o
 
@@ -1579,6 +1606,9 @@ help:
 	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.o"
 	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.i"
 	@echo "... src/DesignPatterns/Creational/Singleton/FrameworkContainer/Container.s"
+	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.o"
+	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.i"
+	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/AdapterHelloFormatter.s"
 	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.o"
 	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.i"
 	@echo "... src/DesignPatterns/Structural/Adapter/HelloFormatter/HelloFormatter.s"
@@ -1651,12 +1681,12 @@ help:
 	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.o"
 	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.i"
 	@echo "... tests/DesignPatterns/Creational/Singleton/FrameworkContainer/testContainer.s"
+	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.o"
+	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.i"
+	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testAdapterHelloFormatter.s"
 	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.o"
 	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.i"
 	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatter.s"
-	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.o"
-	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.i"
-	@echo "... tests/DesignPatterns/Structural/Adapter/HelloFormatter/testHelloFormatterAdapter.s"
 	@echo "... tests/main.o"
 	@echo "... tests/main.i"
 	@echo "... tests/main.s"
