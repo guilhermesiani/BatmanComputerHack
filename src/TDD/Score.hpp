@@ -4,7 +4,7 @@
 class Score
 {
 public:
-    int total = 45;
+    int value = 45;
     void sum(int value);
 };
 
