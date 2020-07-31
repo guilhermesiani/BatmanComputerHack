@@ -4,8 +4,8 @@
 class Score
 {
 public:
-    int value = 45;
+    int value = 0;
     void sum(int value);
 };
 
-#endif /* Installment_hpp */
+#endif /* Score_hpp */
