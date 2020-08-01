@@ -1,6 +1,11 @@
 #include "Score.hpp"
 
-void Score::sum(int sumValue)
+Score::Score(int value)
 {
-    this->value += sumValue;
+    this->value = value;
+};
+
+void Score::sum(int value)
+{
+    this->value += value;
 };
