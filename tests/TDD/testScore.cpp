@@ -4,10 +4,12 @@
 
 TEST_CASE("Score") {
     SECTION("test sum") {
-        Score* score = new Score(10);
-        score->sum(45);
-        CHECK(score == new Score(55));
-        score->sum(10);
-        CHECK(score == new Score(65));
+        Score score(10);
+        score.sum(45);
+        Score toCompare(55);
+        CHECK(score == toCompare);
+        score.sum(10);
+        Score toCompare2(65);
+        CHECK(score == toCompare2);
     }
 }
