@@ -7,10 +7,11 @@ private:
     int value = 0;
 public:
     Score(int value);
-    void sum(int value);
+    Score sum(int value);
+    bool equal(const Score& s) const;
     bool operator==(const Score& s) const
     {
-        return this->value == s.value;
+        return equal(s);
     };
 };
 

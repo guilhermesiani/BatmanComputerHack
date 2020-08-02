@@ -5,7 +5,12 @@ Score::Score(int value)
     this->value = value;
 };
 
-void Score::sum(int value)
+Score Score::sum(int value)
 {
-    this->value += value;
+    return Score(this->value + value);
 };
+
+bool Score::equal(const Score& s) const
+{
+    return this->value == s.value;
+}

@@ -4,11 +4,17 @@
 TEST_CASE("Score") {
     SECTION("test sum") {
         Score score(10);
-        score.sum(45);
+        Score newScore = score.sum(45);
         Score toCompare(55);
-        CHECK(score == toCompare);
-        score.sum(10);
-        Score toCompare2(65);
-        CHECK(score == toCompare2);
+        CHECK(newScore == toCompare);
+        Score newScore2 = score.sum(10);
+        Score toCompare2(20);
+        CHECK(newScore2 == toCompare2);
+    }
+
+    SECTION("test equality") {
+        Score score(10);
+        Score toCompare(10);
+        CHECK(score.equal(toCompare));
     }
 }
