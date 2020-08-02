@@ -8,6 +8,7 @@ private:
 public:
     Score(int value);
     Score sum(int value);
+    Score subtract(int value);
     bool equal(const Score& s) const;
     bool operator==(const Score& s) const
     {

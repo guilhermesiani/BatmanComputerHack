@@ -7,14 +7,18 @@ TEST_CASE("Score") {
         Score newScore = score.sum(45);
         Score toCompare(55);
         CHECK(newScore == toCompare);
-        Score newScore2 = score.sum(10);
-        Score toCompare2(20);
-        CHECK(newScore2 == toCompare2);
     }
 
     SECTION("test equality") {
         Score score(10);
         Score toCompare(10);
         CHECK(score.equal(toCompare));
+    }
+
+    SECTION("test subtract") {
+        Score score(100);
+        Score newScore = score.subtract(45);
+        Score toCompare(55);
+        CHECK(newScore == toCompare);
     }
 }

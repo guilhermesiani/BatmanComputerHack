@@ -10,6 +10,11 @@ Score Score::sum(int value)
     return Score(this->value + value);
 };
 
+Score Score::subtract(int value)
+{
+    return Score(this->value - value);
+};
+
 bool Score::equal(const Score& s) const
 {
     return this->value == s.value;
