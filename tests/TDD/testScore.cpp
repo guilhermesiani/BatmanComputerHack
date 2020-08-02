@@ -1,6 +1,5 @@
 #include "../catch.hpp"
 #include "../../src/TDD/Score.cpp"
-#include "typeinfo"
 
 TEST_CASE("Score") {
     SECTION("test sum") {
